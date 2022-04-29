@@ -25,8 +25,15 @@ add the bot using the  *<join* command in the channel of [ypbt](https://www.twit
 | *<chatterino* |  | sends the link of chatterino (dankerino, 7tv) | *everyone* |  | *10* seconds |
 | *<chatters* | _views_, _ov_ | sends how many users are active in the channel  | *everyone* |  | *10* seconds |
 | *<clear* |  | clears the chat | *mod* | *mod* | *10* seconds |
-| *coinflip* | _cf_ | coinflip | *everyone* |  | *5* seconds | 
+| *<coinflip* | _cf_ | coinflip | *everyone* |  | *5* seconds | 
 | *<command* |  | disable/enable a command  | *broadcaster* |  | *10* seconds |
 | *<commands* |  | sends the list of commands | *everyone* |  | *10* seconds |
+| *<copypasta* |  | sends a random copypasta | *everyone* |  | *5* seconds |
+| *<countline* | _lines_, _cl_  | sends the number of messages in the channel | *everyone* |  | *10* seconds |
+| *<donger* |  | sends a random donger | *everyone* |  | *5* seconds |
+| *<emotesearch* | _bttv_, _ffz_, _7tv_ | search for an emote from bttv, ffz or 7tv | *everyone* |  | *10* seconds |
+| *<ffzemotes* |  | sends the list of emotes from ffz | *everyone* |  | *10* seconds |
+| *<fill* |  | repeats the message with the length of 480 | *vip* | *vip* | *10* seconds |
+
 
 
