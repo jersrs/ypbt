@@ -8,4 +8,4 @@ add the bot using the  *<join* command in the channel of [ypbt](https://www.twit
 
 | Command  | Alias  | Description  | Permission | Botpermission| Cooldown |
 |:-----------:|:-----------:|:------------:|:------:|:------:|:------:|
-| *<join* |  | Join the channel | *everyone* |  | *0* |
+| *<%* |  | Sends a random porcentage | *everyone* |  | *5* seconds |
