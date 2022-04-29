@@ -23,9 +23,9 @@ add the bot using the  *<join* command in the channel of [ypbt](https://www.twit
 | *<chatstats* |  | sends the link of chatstats from channel (streamelements chatstats) | *everyone* |  | *10* seconds |
 | *<chatter* |  | sends the chatter most active from channel | *everyone* |  | *10* seconds |
 | *<chatterino* |  | sends the link of chatterino (dankerino, 7tv) | *everyone* |  | *10* seconds |
-| *<chatters* | views, ov | sends how many users are active in the channel  | *everyone* |  | *10* seconds |
+| *<chatters* | _views_, _ov_ | sends how many users are active in the channel  | *everyone* |  | *10* seconds |
 | *<clear* |  | clears the chat | *mod* | *mod* | *10* seconds |
-| *coinflip* |  | coinflip | *everyone* |  | *5* seconds | 
+| *coinflip* | _cf_ | coinflip | *everyone* |  | *5* seconds | 
 | *<command* |  | disable/enable a command  | *broadcaster* |  | *10* seconds |
 | *<commands* |  | sends the list of commands | *everyone* |  | *10* seconds |
 
