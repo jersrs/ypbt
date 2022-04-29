@@ -36,6 +36,18 @@ add the bot using the  *<join* command in the channel of [ypbt](https://www.twit
 | *<fill* |  | repeats the message with the length of 480 | *vip* | *vip* | *10* seconds |
 | *<firstfollowedchannel* | _ffc_ | sends the first channel you have followed | *everyone* |  | *10* seconds |
 | *<fisrtmsg* | _firstline_, _fl_ | sends the first message you have sent | *everyone* |  | *10* seconds |
+| *<followage* |  _fa_ | sends the age of the first channel you have followed | *everyone* |  | *10* seconds |
+| *<funfact* |  | sends a random funfact | *everyone* |  | *5* seconds |
+| *<globalbadges* | | sends the link of global badges | *everyone* |  | *10* seconds |
+| *<globalemotes* | | sends all the global emotes | *mod* |   | *10* seconds |
+| *<google* | _gg_ | google search | *everyone* |  | *10* seconds |
+| *<hug* | _dankHug_ | hug a user and I'll keep track of how many hugs you've given them | *everyone* |  | *5* seconds |
+| *<join* |  | joins the channel (can only be used in bot chat or owner chat) | *everyone* |  | *10* seconds |
+| *<massping* | _dinkdonk_ | massping a channel | *broadcaster* | *vip*  | *10* seconds |
+| *<math* |  | solves a math equation | *everyone* |  | *10* seconds |
+| *<ping* | _pang_, _peng_, _pong_ _pung_ _pyng_ |  send how long it has been active and other information | *everyone* |  | *10* seconds |
+
+
 
 
 
