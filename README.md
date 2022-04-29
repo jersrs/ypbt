@@ -6,5 +6,6 @@ add the bot using the  *<join* command in the channel of [ypbt](https://www.twit
 
 ## Commands
 
-| Command  | Alias  | Description  | Permission | Botpermission|
-|:-----------:|:-----------:|:------------:|:------:|:------:|
+| Command  | Alias  | Description  | Permission | Botpermission| Cooldown |
+|:-----------:|:-----------:|:------------:|:------:|:------:|:------:|
+| *<join* |  | Join the channel | *everyone* |  | *0* |
