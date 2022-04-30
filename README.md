@@ -53,6 +53,16 @@ add the bot using the  *<join* command in the channel of [ypbt](https://www.twit
 | *<setemote* | | change the default emote | *mod* |  | *10* seconds |
 | *<setprefix* | _prefix_ | change the default prefix | *broadcaster* |  | *10* seconds |
 | *<spam* | _spam_ | spam a message | *mod* | *vip*  | *10* seconds |
+| *<split* |  | splits every word in a different message (3-10| | *mod* | *vip* | *10* seconds | 
+| *<streaminfo* | _si_, _title_, _game_, _uptime_ _thumbnail_, _thumb_| sends the stream information | *everyone* |  | *10* seconds |
+| *<subage* | _sa_ | check how long you have been a subscriber and when your sub will run out. | *everyone* |  | *10* seconds |
+| *<suggest* |  | send a suggestion for the bot for example a command you would like to be added | *everyone* |  | *10* seconds |
+| *<transform* | _tt_ | transform a message into a different message | *everyone* | | *10* seconds |
+| *<tuck* |  | send a user to bed and I will count how many times you have sent them to bed. | *everyone* |  | *10* seconds |
+| *<twitchemotes* | | sends the list of emotes from twitch | *everyone* |  | *10* seconds |
+| *<user* | _uid_ _staff_, _isbot_, _partner_, _affiliate_, _banned_, _accage_, _color_, _badges_, _follows_, _followers_, _emotes_ | sends the user information | *everyone* |  | *10* seconds |
+| *<vanish* | _pppoof_, _pajavanish_ | I will give you a timeout of 1s for your messages to be deleted. | *User* | *mod* | *10* seconds |
+| *<videoinfo* | _dislikes_, _likes_, _video_  | sends the video information | *everyone* |  | *10* seconds |
 
 
 
