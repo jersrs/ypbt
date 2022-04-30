@@ -46,7 +46,13 @@ add the bot using the  *<join* command in the channel of [ypbt](https://www.twit
 | *<massping* | _dinkdonk_ | massping a channel | *broadcaster* | *vip*  | *10* seconds |
 | *<math* |  | solves a math equation | *everyone* |  | *10* seconds |
 | *<ping* | _pang_, _peng_, _pong_ _pung_ _pyng_ |  send how long it has been active and other information | *everyone* |  | *10* seconds |
-
+| *<pyramid* |  | sends a pyramid of the channel (2-60) | *mod* | *vip* | *10* seconds |
+| *<query* | _wolfram_ | query a question from wolfram | *everyone* |  | *10* seconds |
+| *<randomcolor*| _randomhex_, _rc_, _rh_ | sends a random color | *everyone* |  | *10* seconds |
+| *<randomline* |  _rl_ | sends a random line from the chat | *everyone* |  | *10* seconds |
+| *<setemote* | | change the default emote | *mod* |  | *10* seconds |
+| *<setprefix* | _prefix_ | change the default prefix | *broadcaster* |  | *10* seconds |
+| *<spam* | _spam_ | spam a message | *mod* | *vip*  | *10* seconds |
 
 
 
