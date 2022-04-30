@@ -8,7 +8,7 @@ add the bot using the  *<join* command in the channel of [ypbt](https://www.twit
 
 | Command  | Alias  | Description  | Permission | Botpermission| Cooldown |
 |:-----------:|:-----------:|:------------:|:------:|:------:|:------:|
-| *<%* |  | sends a random porcentage | *everyone* |  | *3* seconds |
+| **<%** |  | sends a random porcentage | *everyone* |  | *3* seconds |
 | *<7tvemotes* |  | sends the list of emotes from 7tv | *everyone* |  | *10* seconds |
 | *<7tvnotify* |  | turn notifications on or off when you add a 7tv emote | *broadctaster* |  | *8* seconds |
 | *<7tvuser* |  | 7tvuser information | *everyone* |   | *10* seconds |
